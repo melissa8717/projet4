@@ -35,6 +35,7 @@ public class AnalyticsCounter {
                   System.out.println("An error occurred.");
                   x.printStackTrace();
                 }
+           
 		/*int i = 0;	// set i to 0
 		int headCount = 0;	// counts headaches
 		while (line != null) {
